@@ -1,0 +1,27 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="NetFlowCollectorService.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="NetFlowUDPPort" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">9999</Value>
+    </Setting>
+    <Setting Name="PGHost" Type="System.String" Scope="User">
+      <Value Profile="(Default)">10.0.0.0</Value>
+    </Setting>
+    <Setting Name="PGLogin" Type="System.String" Scope="User">
+      <Value Profile="(Default)">LOGIN</Value>
+    </Setting>
+    <Setting Name="PGPassword" Type="System.String" Scope="User">
+      <Value Profile="(Default)">PASSWORD</Value>
+    </Setting>
+    <Setting Name="PGDatabase" Type="System.String" Scope="User">
+      <Value Profile="(Default)">NetFlow</Value>
+    </Setting>
+    <Setting Name="PGTable" Type="System.String" Scope="User">
+      <Value Profile="(Default)">NetFlowData</Value>
+    </Setting>
+    <Setting Name="PGPort" Type="System.String" Scope="User">
+      <Value Profile="(Default)">5432</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
